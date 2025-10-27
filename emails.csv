@@ -1,0 +1,1001 @@
+subject,body,intent
+Meeting Request,Can we schedule a call to discuss next steps?,MEETING_REQUEST
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+Don't Miss Out!,Limited time offer: subscription now available.,PROMOTION
+Application Update,Good news! Frank referred you for the Marketing Lead role.,REFERRAL
+Verify Now!,Verify your bank details immediately!,SPAM
+Quick Chat?,Are you free to chat around noon?,MEETING_REQUEST
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Don't Miss Out!,Weekly Digest: Top news and special offers.,PROMOTION
+URGENT!,Claim your free iPhone now!,SPAM
+Document Needed,Where can I find the latest spreadsheet?,FILE_REQUEST
+Regarding File,Requesting access to the proposal.,FILE_REQUEST
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Availability,Are you free to chat later today?,MEETING_REQUEST
+Don't Miss Out!,Weekly Digest: Top news and special offers.,PROMOTION
+New Referral,You have a new job referral for the Software Engineer position.,REFERRAL
+Regarding File,Reminder to send the document.,FILE_REQUEST
+File Request,Can you send me the spreadsheet?,FILE_REQUEST
+Application Update,Referral received from Frank.,REFERRAL
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+Verify Now!,Verify your bank details immediately!,SPAM
+File Request,"Following up on our chat, could you share the proposal?",FILE_REQUEST
+Weekly Deals,Your weekly newsletter and promotions.,PROMOTION
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Exclusive Offer,Claim your free gift card now!,SPAM
+URGENT!,Claim your free gift card now!,SPAM
+Referral Submission,You have a new job referral for the Data Analyst position.,REFERRAL
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Application Update,Good news! Henry referred you for the Software Engineer role.,REFERRAL
+Meeting Request,Can we schedule a call to discuss the budget?,MEETING_REQUEST
+Quick Chat?,Are you free to chat at 3 PM?,MEETING_REQUEST
+Weekly Deals,Weekly Digest: Top news and special offers.,PROMOTION
+URGENT!,Verify your bank details immediately!,SPAM
+Regarding File,Need the presentation for the meeting.,FILE_REQUEST
+Regarding File,"Hi, is the document ready?",FILE_REQUEST
+Quick Chat?,Available for a quick call later today?,MEETING_REQUEST
+New Referral,You have a new job referral for the Data Analyst position.,REFERRAL
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+New Referral,Good news! David referred you for the Marketing Lead role.,REFERRAL
+Regarding File,Where can I find the latest spreadsheet?,FILE_REQUEST
+Document Needed,Requesting access to the minutes.,FILE_REQUEST
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+Don't Miss Out!,Exclusive 20% discount for you!,PROMOTION
+Availability,Setting up a meeting for the Q3 results.,MEETING_REQUEST
+You Won!,Congratulations! You won a free iPhone!,SPAM
+Availability,Can we schedule a call to discuss the Q3 results?,MEETING_REQUEST
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Regarding File,Requesting access to the document.,FILE_REQUEST
+New Referral,Referral received from Emma.,REFERRAL
+Regarding File,Where can I find the latest proposal?,FILE_REQUEST
+File Request,"Following up on our chat, could you share the document?",FILE_REQUEST
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+Availability,How about we meet next Monday?,MEETING_REQUEST
+Availability,Setting up a meeting for the Q3 results.,MEETING_REQUEST
+URGENT!,Exclusive offer just for you - Limited spots!,SPAM
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+Re: Update,"Perfect, thanks!",ACKNOWLEDGEMENT
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Quick Chat?,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+Weekly Deals,Check out our new subscription lineup.,PROMOTION
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+URGENT!,Your inheritance is waiting claim now!,SPAM
+Special Offer!,Check out our new software lineup.,PROMOTION
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+New Referral,You have a new job referral for the Product Manager position.,REFERRAL
+Weekly Deals,Don't miss our Holiday deals!,PROMOTION
+New Referral,You have a new job referral for the Designer position.,REFERRAL
+Quick Chat?,Available for a quick call next Monday?,MEETING_REQUEST
+Application Update,Good news! Henry referred you for the Product Manager role.,REFERRAL
+New Referral,Update on your application: referred by Grace.,REFERRAL
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Special Offer!,Limited time offer: software now available.,PROMOTION
+Application Update,Good news! Emma referred you for the Software Engineer role.,REFERRAL
+New Referral,Update on your application: referred by Frank.,REFERRAL
+Quick Chat?,Setting up a meeting for our strategy.,MEETING_REQUEST
+Don't Miss Out!,Exclusive 10% discount for you!,PROMOTION
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Don't Miss Out!,Flash Sale! 70% off everything!,PROMOTION
+New Referral,Referral received from Grace.,REFERRAL
+Quick Chat?,Do you have time for a brief meeting?,MEETING_REQUEST
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+Regarding File,Requesting access to the minutes.,FILE_REQUEST
+Special Offer!,Flash Sale! 70% off everything!,PROMOTION
+Quick Chat?,Meeting request: the budget discussion.,MEETING_REQUEST
+Application Update,You have a new job referral for the Marketing Lead position.,REFERRAL
+Availability,Meeting request: the project discussion.,MEETING_REQUEST
+Referral Submission,Good news! Chloe referred you for the Product Manager role.,REFERRAL
+Weekly Deals,Check out our new software lineup.,PROMOTION
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Meeting Request,Setting up a meeting for the new design.,MEETING_REQUEST
+Document Needed,Please forward the report when you get a chance.,FILE_REQUEST
+Quick Chat?,How about we meet later today?,MEETING_REQUEST
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+Quick Chat?,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+Regarding File,"Hi, is the minutes ready?",FILE_REQUEST
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Quick Chat?,Can we schedule a call to discuss the Q3 results?,MEETING_REQUEST
+New Referral,Good news! Emma referred you for the Software Engineer role.,REFERRAL
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+New Referral,Please review the attached referral profile.,REFERRAL
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Meeting Request,Meeting request: our strategy discussion.,MEETING_REQUEST
+Weekly Deals,Exclusive 70% discount for you!,PROMOTION
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+New Referral,You have a new job referral for the Data Analyst position.,REFERRAL
+Exclusive Offer,Viagra cheap online!,SPAM
+Regarding File,Please forward the minutes when you get a chance.,FILE_REQUEST
+Quick Chat?,How about we meet sometime this week?,MEETING_REQUEST
+URGENT!,Claim your free iPad now!,SPAM
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Weekly Deals,Exclusive 10% discount for you!,PROMOTION
+Regarding File,Need the report for the meeting.,FILE_REQUEST
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Got it,Sounds good.,ACKNOWLEDGEMENT
+URGENT!,Exclusive offer just for you - Limited spots!,SPAM
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+URGENT!,Congratulations! You won a free iPhone!,SPAM
+Application Update,Update on your application: referred by Alex.,REFERRAL
+URGENT!,Make money fast online!,SPAM
+Availability,Let's sync up later today.,MEETING_REQUEST
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+Referral Submission,Update on your application: referred by Chloe.,REFERRAL
+File Request,Can you send me the minutes?,FILE_REQUEST
+Document Needed,Where can I find the latest slides?,FILE_REQUEST
+Quick Chat?,Available for a quick call around noon?,MEETING_REQUEST
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Special Offer!,Check out our new subscription lineup.,PROMOTION
+Weekly Deals,Flash Sale! 20% off everything!,PROMOTION
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Special Offer!,Don't miss our Summer deals!,PROMOTION
+Availability,Meeting request: the budget discussion.,MEETING_REQUEST
+Application Update,You have a new job referral for the Product Manager position.,REFERRAL
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Verify Now!,Congratulations! You won £5000!,SPAM
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Referral Submission,Good news! Grace referred you for the Software Engineer role.,REFERRAL
+URGENT!,Your inheritance is waiting claim now!,SPAM
+URGENT!,"Congratulations! You won $1,000,000!",SPAM
+Referral Submission,Referral received from Chloe.,REFERRAL
+Meeting Request,Setting up a meeting for the budget.,MEETING_REQUEST
+Special Offer!,Flash Sale! 20% off everything!,PROMOTION
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+URGENT!,Your inheritance is waiting claim now!,SPAM
+Verify Now!,Make money fast online!,SPAM
+Referral Submission,Update on your application: referred by Henry.,REFERRAL
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Application Update,You have a new job referral for the Data Analyst position.,REFERRAL
+Quick Chat?,Setting up a meeting for the budget.,MEETING_REQUEST
+Document Needed,"Following up on our chat, could you share the presentation?",FILE_REQUEST
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+URGENT!,Congratulations! You won a free iPhone!,SPAM
+Meeting Request,Setting up a meeting for our strategy.,MEETING_REQUEST
+New Referral,Referral received from Grace.,REFERRAL
+Meeting Request,Can we schedule a call to discuss our strategy?,MEETING_REQUEST
+Don't Miss Out!,Weekly Digest: Top news and special offers.,PROMOTION
+File Request,"Hi, is the presentation ready?",FILE_REQUEST
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Weekly Deals,Biggest Sale Ever! Up to 50% off.,PROMOTION
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Regarding File,"Following up on our chat, could you share the slides?",FILE_REQUEST
+Regarding File,Please forward the proposal when you get a chance.,FILE_REQUEST
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+Application Update,Referral received from Alex.,REFERRAL
+Application Update,Please review the attached referral profile.,REFERRAL
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+Meeting Request,Meeting request: the new design discussion.,MEETING_REQUEST
+URGENT!,Verify your bank details immediately!,SPAM
+You Won!,URGENT: Your account is locked! Click here!,SPAM
+Meeting Request,Meeting request: our strategy discussion.,MEETING_REQUEST
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+Exclusive Offer,Viagra cheap online!,SPAM
+Application Update,You have a new job referral for the Software Engineer position.,REFERRAL
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Quick Chat?,Let's sync up at 3 PM.,MEETING_REQUEST
+Don't Miss Out!,Biggest Sale Ever! Up to 70% off.,PROMOTION
+Exclusive Offer,Congratulations! You won a free iPhone!,SPAM
+Quick Chat?,Are you free to chat tomorrow?,MEETING_REQUEST
+Don't Miss Out!,Weekly Digest: Top news and special offers.,PROMOTION
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Referral Submission,Update on your application: referred by Ben.,REFERRAL
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Don't Miss Out!,Limited time offer: gadget now available.,PROMOTION
+Application Update,Referral received from Chloe.,REFERRAL
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Quick Chat?,Setting up a meeting for the new design.,MEETING_REQUEST
+Re: Update,"Got it, thanks!",ACKNOWLEDGEMENT
+Regarding File,Reminder to send the agenda.,FILE_REQUEST
+Document Needed,Please forward the slides when you get a chance.,FILE_REQUEST
+File Request,"Following up on our chat, could you share the slides?",FILE_REQUEST
+Referral Submission,Update on your application: referred by Emma.,REFERRAL
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Special Offer!,Don't miss our Holiday deals!,PROMOTION
+URGENT!,URGENT: Your account is locked! Click here!,SPAM
+Special Offer!,Don't miss our Weekend deals!,PROMOTION
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Document Needed,Requesting access to the document.,FILE_REQUEST
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+You Won!,Claim your free gift card now!,SPAM
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+Meeting Request,Setting up a meeting for the Q3 results.,MEETING_REQUEST
+Weekly Deals,Check out our new subscription lineup.,PROMOTION
+Regarding File,"Following up on our chat, could you share the document?",FILE_REQUEST
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Don't Miss Out!,Biggest Sale Ever! Up to 70% off.,PROMOTION
+Quick Chat?,Available for a quick call tomorrow?,MEETING_REQUEST
+Quick Chat?,Can we schedule a call to discuss next steps?,MEETING_REQUEST
+URGENT!,Congratulations! You won £5000!,SPAM
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Exclusive Offer,Claim your free iPhone now!,SPAM
+Document Needed,Can you send me the agenda?,FILE_REQUEST
+Quick Chat?,Are you free to chat later today?,MEETING_REQUEST
+Regarding File,Where can I find the latest spreadsheet?,FILE_REQUEST
+Weekly Deals,Don't miss our Holiday deals!,PROMOTION
+Regarding File,Please forward the document when you get a chance.,FILE_REQUEST
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Re: Update,"Perfect, thanks!",ACKNOWLEDGEMENT
+Application Update,Update on your application: referred by Grace.,REFERRAL
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+Document Needed,"Following up on our chat, could you share the report?",FILE_REQUEST
+File Request,"Following up on our chat, could you share the proposal?",FILE_REQUEST
+Quick Chat?,Let's sync up at 3 PM.,MEETING_REQUEST
+Application Update,Please review the attached referral profile.,REFERRAL
+Quick Chat?,Can we schedule a call to discuss the project?,MEETING_REQUEST
+Meeting Request,How about we meet sometime this week?,MEETING_REQUEST
+File Request,Requesting access to the slides.,FILE_REQUEST
+Regarding File,Where can I find the latest slides?,FILE_REQUEST
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+Quick Chat?,Setting up a meeting for next steps.,MEETING_REQUEST
+Availability,Let's sync up around noon.,MEETING_REQUEST
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+You Won!,Make money fast online!,SPAM
+Regarding File,"Following up on our chat, could you share the slides?",FILE_REQUEST
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+URGENT!,Exclusive offer just for you - Limited spots!,SPAM
+Document Needed,Requesting access to the presentation.,FILE_REQUEST
+Don't Miss Out!,Biggest Sale Ever! Up to 70% off.,PROMOTION
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Don't Miss Out!,Exclusive 20% discount for you!,PROMOTION
+Quick Chat?,Setting up a meeting for the budget.,MEETING_REQUEST
+Weekly Deals,Your weekly newsletter and promotions.,PROMOTION
+Quick Chat?,Setting up a meeting for our strategy.,MEETING_REQUEST
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+Quick Chat?,Setting up a meeting for the project.,MEETING_REQUEST
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Document Needed,Please forward the minutes when you get a chance.,FILE_REQUEST
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Availability,How about we meet tomorrow?,MEETING_REQUEST
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Verify Now!,Congratulations! You won a free iPhone!,SPAM
+Quick Chat?,Setting up a meeting for next steps.,MEETING_REQUEST
+Availability,Available for a quick call later today?,MEETING_REQUEST
+File Request,Requesting access to the minutes.,FILE_REQUEST
+New Referral,You have a new job referral for the Product Manager position.,REFERRAL
+New Referral,You have a new job referral for the Marketing Lead position.,REFERRAL
+Special Offer!,Exclusive 30% discount for you!,PROMOTION
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+New Referral,Referral received from Frank.,REFERRAL
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+You Won!,URGENT: Your account is locked! Click here!,SPAM
+New Referral,You have a new job referral for the Designer position.,REFERRAL
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+Quick Chat?,Do you have time for a brief meeting?,MEETING_REQUEST
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Availability,Available for a quick call tomorrow?,MEETING_REQUEST
+Don't Miss Out!,Limited time offer: subscription now available.,PROMOTION
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Verify Now!,Verify your bank details immediately!,SPAM
+File Request,Reminder to send the proposal.,FILE_REQUEST
+Meeting Request,Setting up a meeting for the Q3 results.,MEETING_REQUEST
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Exclusive Offer,Congratulations! You won a free iPhone!,SPAM
+URGENT!,Verify your bank details immediately!,SPAM
+Meeting Request,Meeting request: the budget discussion.,MEETING_REQUEST
+Document Needed,Need the proposal for the meeting.,FILE_REQUEST
+Don't Miss Out!,Biggest Sale Ever! Up to 30% off.,PROMOTION
+New Referral,Please review the attached referral profile.,REFERRAL
+New Referral,Good news! Grace referred you for the Data Analyst role.,REFERRAL
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Regarding File,"Following up on our chat, could you share the slides?",FILE_REQUEST
+Don't Miss Out!,Weekly Digest: Top news and special offers.,PROMOTION
+Quick Chat?,How about we meet at 3 PM?,MEETING_REQUEST
+Availability,Let's sync up tomorrow.,MEETING_REQUEST
+Document Needed,Requesting access to the agenda.,FILE_REQUEST
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+URGENT!,Viagra cheap online!,SPAM
+Quick Chat?,Can we schedule a call to discuss next steps?,MEETING_REQUEST
+Got it,"Received, thank you.",ACKNOWLEDGEMENT
+Document Needed,Requesting access to the proposal.,FILE_REQUEST
+You Won!,URGENT: Your account is locked! Click here!,SPAM
+Quick Chat?,Can we schedule a call to discuss next steps?,MEETING_REQUEST
+Referral Submission,You have a new job referral for the Data Analyst position.,REFERRAL
+Regarding File,Requesting access to the slides.,FILE_REQUEST
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Don't Miss Out!,Exclusive 20% discount for you!,PROMOTION
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+Availability,Can we schedule a call to discuss our strategy?,MEETING_REQUEST
+Document Needed,"Following up on our chat, could you share the report?",FILE_REQUEST
+Document Needed,Need the minutes for the meeting.,FILE_REQUEST
+Quick Chat?,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+File Request,Can you send me the agenda?,FILE_REQUEST
+Verify Now!,URGENT: Your account is locked! Click here!,SPAM
+Weekly Deals,Exclusive 30% discount for you!,PROMOTION
+Document Needed,Reminder to send the slides.,FILE_REQUEST
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Quick Chat?,Available for a quick call around noon?,MEETING_REQUEST
+URGENT!,Viagra cheap online!,SPAM
+Special Offer!,Check out our new widget lineup.,PROMOTION
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Referral Submission,Good news! Chloe referred you for the Marketing Lead role.,REFERRAL
+Availability,Are you free to chat at 3 PM?,MEETING_REQUEST
+Quick Chat?,Available for a quick call around noon?,MEETING_REQUEST
+Verify Now!,Make money fast online!,SPAM
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Document Needed,Need the document for the meeting.,FILE_REQUEST
+Availability,How about we meet sometime this week?,MEETING_REQUEST
+You Won!,Make money fast online!,SPAM
+Don't Miss Out!,Don't miss our Summer deals!,PROMOTION
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+File Request,Requesting access to the presentation.,FILE_REQUEST
+Quick Chat?,Can we schedule a call to discuss the Q3 results?,MEETING_REQUEST
+Quick Chat?,Do you have time for a brief meeting?,MEETING_REQUEST
+You Won!,Viagra cheap online!,SPAM
+Referral Submission,You have a new job referral for the Data Analyst position.,REFERRAL
+Document Needed,Can you send me the proposal?,FILE_REQUEST
+Application Update,Referral received from Grace.,REFERRAL
+Referral Submission,Update on your application: referred by David.,REFERRAL
+Application Update,Update on your application: referred by David.,REFERRAL
+File Request,Can you send me the agenda?,FILE_REQUEST
+Got it,"Got it, thanks!",ACKNOWLEDGEMENT
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+New Referral,Referral received from Henry.,REFERRAL
+Don't Miss Out!,Don't miss our Weekend deals!,PROMOTION
+Quick Chat?,Are you free to chat at 3 PM?,MEETING_REQUEST
+Thanks,Sounds good.,ACKNOWLEDGEMENT
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Weekly Deals,Check out our new software lineup.,PROMOTION
+Meeting Request,Are you free to chat sometime this week?,MEETING_REQUEST
+Don't Miss Out!,Check out our new software lineup.,PROMOTION
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Got it,"Got it, thanks!",ACKNOWLEDGEMENT
+URGENT!,Your inheritance is waiting claim now!,SPAM
+Availability,Are you free to chat sometime this week?,MEETING_REQUEST
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+File Request,Requesting access to the agenda.,FILE_REQUEST
+Meeting Request,Are you free to chat later today?,MEETING_REQUEST
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+File Request,"Following up on our chat, could you share the presentation?",FILE_REQUEST
+Don't Miss Out!,Don't miss our Summer deals!,PROMOTION
+You Won!,Viagra cheap online!,SPAM
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+File Request,"Following up on our chat, could you share the slides?",FILE_REQUEST
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Don't Miss Out!,Don't miss our Clearance deals!,PROMOTION
+File Request,"Following up on our chat, could you share the presentation?",FILE_REQUEST
+Regarding File,Need the minutes for the meeting.,FILE_REQUEST
+Document Needed,Reminder to send the slides.,FILE_REQUEST
+Re: Update,"Got it, thanks!",ACKNOWLEDGEMENT
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Verify Now!,Claim your free vacation now!,SPAM
+Weekly Deals,Weekly Digest: Top news and special offers.,PROMOTION
+Meeting Request,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+Document Needed,"Hi, is the proposal ready?",FILE_REQUEST
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Availability,Setting up a meeting for the project.,MEETING_REQUEST
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+You Won!,Viagra cheap online!,SPAM
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+URGENT!,Claim your free vacation now!,SPAM
+Application Update,Update on your application: referred by Henry.,REFERRAL
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Document Needed,"Following up on our chat, could you share the minutes?",FILE_REQUEST
+Document Needed,Where can I find the latest report?,FILE_REQUEST
+Regarding File,Can you send me the document?,FILE_REQUEST
+File Request,Requesting access to the agenda.,FILE_REQUEST
+Weekly Deals,Limited time offer: subscription now available.,PROMOTION
+New Referral,You have a new job referral for the Software Engineer position.,REFERRAL
+Special Offer!,Don't miss our Summer deals!,PROMOTION
+Special Offer!,Don't miss our Clearance deals!,PROMOTION
+Got it,"Okay, will do.",ACKNOWLEDGEMENT
+Application Update,You have a new job referral for the Product Manager position.,REFERRAL
+Referral Submission,Good news! Ben referred you for the Marketing Lead role.,REFERRAL
+File Request,"Following up on our chat, could you share the minutes?",FILE_REQUEST
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Referral Submission,ACTION REQUIRED: New referral submission.,REFERRAL
+Quick Chat?,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+URGENT!,Your inheritance is waiting claim now!,SPAM
+Don't Miss Out!,Biggest Sale Ever! Up to 30% off.,PROMOTION
+Meeting Request,How about we meet tomorrow?,MEETING_REQUEST
+Exclusive Offer,Verify your bank details immediately!,SPAM
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+Referral Submission,You have a new job referral for the Designer position.,REFERRAL
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Referral Submission,Referral received from Chloe.,REFERRAL
+Weekly Deals,Flash Sale! 50% off everything!,PROMOTION
+Special Offer!,Don't miss our Weekend deals!,PROMOTION
+Quick Chat?,How about we meet at 3 PM?,MEETING_REQUEST
+Don't Miss Out!,Flash Sale! 50% off everything!,PROMOTION
+Exclusive Offer,URGENT: Your account is locked! Click here!,SPAM
+Regarding File,"Hi, is the slides ready?",FILE_REQUEST
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Document Needed,Requesting access to the minutes.,FILE_REQUEST
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+File Request,Reminder to send the minutes.,FILE_REQUEST
+Special Offer!,Don't miss our Weekend deals!,PROMOTION
+URGENT!,Your inheritance is waiting claim now!,SPAM
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+New Referral,Good news! Chloe referred you for the Product Manager role.,REFERRAL
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Document Needed,"Following up on our chat, could you share the document?",FILE_REQUEST
+Quick Chat?,Do you have time for a brief meeting?,MEETING_REQUEST
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+New Referral,Good news! Emma referred you for the Product Manager role.,REFERRAL
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+Availability,Available for a quick call tomorrow?,MEETING_REQUEST
+File Request,"Following up on our chat, could you share the presentation?",FILE_REQUEST
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Quick Chat?,Setting up a meeting for the new design.,MEETING_REQUEST
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+Verify Now!,Viagra cheap online!,SPAM
+Regarding File,"Hi, is the minutes ready?",FILE_REQUEST
+File Request,Can you send me the agenda?,FILE_REQUEST
+You Won!,Claim your free iPhone now!,SPAM
+Weekly Deals,Don't miss our Weekend deals!,PROMOTION
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Availability,Meeting request: next steps discussion.,MEETING_REQUEST
+Availability,Available for a quick call later today?,MEETING_REQUEST
+Regarding File,"Hi, is the minutes ready?",FILE_REQUEST
+File Request,Where can I find the latest report?,FILE_REQUEST
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+File Request,Can you send me the spreadsheet?,FILE_REQUEST
+Thanks,Sounds good.,ACKNOWLEDGEMENT
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+File Request,Where can I find the latest agenda?,FILE_REQUEST
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Special Offer!,Biggest Sale Ever! Up to 70% off.,PROMOTION
+Availability,How about we meet sometime this week?,MEETING_REQUEST
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+You Won!,Verify your bank details immediately!,SPAM
+Don't Miss Out!,Exclusive 20% discount for you!,PROMOTION
+Weekly Deals,Don't miss our Weekend deals!,PROMOTION
+Document Needed,Please forward the report when you get a chance.,FILE_REQUEST
+Don't Miss Out!,Weekly Digest: Top news and special offers.,PROMOTION
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+Exclusive Offer,URGENT: Your account is locked! Click here!,SPAM
+Document Needed,Requesting access to the document.,FILE_REQUEST
+Document Needed,Where can I find the latest spreadsheet?,FILE_REQUEST
+Application Update,Please review the attached referral profile.,REFERRAL
+New Referral,Good news! Frank referred you for the Designer role.,REFERRAL
+File Request,Reminder to send the minutes.,FILE_REQUEST
+Thanks,Sounds good.,ACKNOWLEDGEMENT
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+You Won!,Claim your free vacation now!,SPAM
+Weekly Deals,Limited time offer: gadget now available.,PROMOTION
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Document Needed,Need the slides for the meeting.,FILE_REQUEST
+Availability,Setting up a meeting for the budget.,MEETING_REQUEST
+Quick Chat?,Setting up a meeting for our strategy.,MEETING_REQUEST
+Exclusive Offer,Claim your free vacation now!,SPAM
+Weekly Deals,Flash Sale! 10% off everything!,PROMOTION
+Weekly Deals,Check out our new widget lineup.,PROMOTION
+Regarding File,Requesting access to the spreadsheet.,FILE_REQUEST
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+Meeting Request,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+Weekly Deals,Biggest Sale Ever! Up to 70% off.,PROMOTION
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Meeting Request,Are you free to chat around noon?,MEETING_REQUEST
+URGENT!,Verify your bank details immediately!,SPAM
+Regarding File,Need the presentation for the meeting.,FILE_REQUEST
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+You Won!,Congratulations! You won £5000!,SPAM
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+Availability,Setting up a meeting for next steps.,MEETING_REQUEST
+Referral Submission,Update on your application: referred by Emma.,REFERRAL
+Availability,Are you free to chat later today?,MEETING_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Don't Miss Out!,Don't miss our Clearance deals!,PROMOTION
+Availability,Available for a quick call around noon?,MEETING_REQUEST
+Quick Chat?,Let's sync up tomorrow.,MEETING_REQUEST
+Meeting Request,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+Availability,Let's sync up tomorrow.,MEETING_REQUEST
+File Request,Reminder to send the agenda.,FILE_REQUEST
+Application Update,Update on your application: referred by Emma.,REFERRAL
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+Availability,Available for a quick call around noon?,MEETING_REQUEST
+URGENT!,Congratulations! You won £5000!,SPAM
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+Quick Chat?,Meeting request: the budget discussion.,MEETING_REQUEST
+Special Offer!,Flash Sale! 10% off everything!,PROMOTION
+Weekly Deals,Limited time offer: widget now available.,PROMOTION
+Exclusive Offer,Make money fast online!,SPAM
+Document Needed,"Following up on our chat, could you share the spreadsheet?",FILE_REQUEST
+URGENT!,Exclusive offer just for you - Limited spots!,SPAM
+Weekly Deals,Weekly Digest: Top news and special offers.,PROMOTION
+Exclusive Offer,URGENT: Your account is locked! Click here!,SPAM
+URGENT!,"Congratulations! You won $1,000,000!",SPAM
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+You Won!,Claim your free vacation now!,SPAM
+Quick Chat?,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+New Referral,Good news! David referred you for the Marketing Lead role.,REFERRAL
+Availability,How about we meet sometime this week?,MEETING_REQUEST
+Regarding File,Need the spreadsheet for the meeting.,FILE_REQUEST
+Application Update,You have a new job referral for the Marketing Lead position.,REFERRAL
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+You Won!,Your inheritance is waiting claim now!,SPAM
+Availability,How about we meet later today?,MEETING_REQUEST
+Regarding File,Reminder to send the document.,FILE_REQUEST
+Availability,Setting up a meeting for the budget.,MEETING_REQUEST
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+Availability,Setting up a meeting for the new design.,MEETING_REQUEST
+Don't Miss Out!,Don't miss our Weekend deals!,PROMOTION
+Meeting Request,Available for a quick call next Monday?,MEETING_REQUEST
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+You Won!,Verify your bank details immediately!,SPAM
+Got it,"Perfect, thanks!",ACKNOWLEDGEMENT
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+URGENT!,URGENT: Your account is locked! Click here!,SPAM
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+Exclusive Offer,Verify your bank details immediately!,SPAM
+Document Needed,Requesting access to the presentation.,FILE_REQUEST
+Meeting Request,Available for a quick call at 3 PM?,MEETING_REQUEST
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+Special Offer!,Check out our new gadget lineup.,PROMOTION
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Regarding File,Reminder to send the spreadsheet.,FILE_REQUEST
+Weekly Deals,Check out our new service lineup.,PROMOTION
+Document Needed,Reminder to send the agenda.,FILE_REQUEST
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+File Request,Can you send me the spreadsheet?,FILE_REQUEST
+Meeting Request,How about we meet sometime this week?,MEETING_REQUEST
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+New Referral,Referral received from Grace.,REFERRAL
+Quick Chat?,Can we schedule a call to discuss next steps?,MEETING_REQUEST
+Document Needed,Requesting access to the spreadsheet.,FILE_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Re: Update,"Perfect, thanks!",ACKNOWLEDGEMENT
+New Referral,Referral received from David.,REFERRAL
+Availability,Let's sync up around noon.,MEETING_REQUEST
+Meeting Request,Can we schedule a call to discuss our strategy?,MEETING_REQUEST
+Availability,Can we schedule a call to discuss the project?,MEETING_REQUEST
+Special Offer!,Weekly Digest: Top news and special offers.,PROMOTION
+Exclusive Offer,Claim your free iPad now!,SPAM
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+Availability,Can we schedule a call to discuss the budget?,MEETING_REQUEST
+New Referral,Referral received from David.,REFERRAL
+Referral Submission,You have a new job referral for the Data Analyst position.,REFERRAL
+Document Needed,Need the proposal for the meeting.,FILE_REQUEST
+Application Update,Please review the attached referral profile.,REFERRAL
+New Referral,Referral received from David.,REFERRAL
+Availability,Meeting request: the new design discussion.,MEETING_REQUEST
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+File Request,Reminder to send the proposal.,FILE_REQUEST
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+Application Update,You have a new job referral for the Data Analyst position.,REFERRAL
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+You Won!,"Congratulations! You won $1,000,000!",SPAM
+File Request,"Following up on our chat, could you share the report?",FILE_REQUEST
+Regarding File,"Following up on our chat, could you share the report?",FILE_REQUEST
+New Referral,Good news! David referred you for the Product Manager role.,REFERRAL
+Document Needed,Requesting access to the minutes.,FILE_REQUEST
+Availability,Let's sync up tomorrow.,MEETING_REQUEST
+Regarding File,Can you send me the report?,FILE_REQUEST
+Application Update,Good news! Alex referred you for the Designer role.,REFERRAL
+File Request,Need the document for the meeting.,FILE_REQUEST
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Referral Submission,Update on your application: referred by Henry.,REFERRAL
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Meeting Request,Available for a quick call next Monday?,MEETING_REQUEST
+Availability,Available for a quick call later today?,MEETING_REQUEST
+Exclusive Offer,Claim your free iPhone now!,SPAM
+Exclusive Offer,Verify your bank details immediately!,SPAM
+File Request,Can you send me the proposal?,FILE_REQUEST
+Meeting Request,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+Don't Miss Out!,Check out our new widget lineup.,PROMOTION
+Quick Chat?,How about we meet next Monday?,MEETING_REQUEST
+New Referral,You have a new job referral for the Marketing Lead position.,REFERRAL
+New Referral,You have a new job referral for the Product Manager position.,REFERRAL
+Don't Miss Out!,Don't miss our Holiday deals!,PROMOTION
+Regarding File,Need the presentation for the meeting.,FILE_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Document Needed,Where can I find the latest minutes?,FILE_REQUEST
+Application Update,Referral received from Ben.,REFERRAL
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+Availability,Do you have time for a brief meeting?,MEETING_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Exclusive Offer,Verify your bank details immediately!,SPAM
+File Request,"Following up on our chat, could you share the slides?",FILE_REQUEST
+Referral Submission,ACTION REQUIRED: New referral submission.,REFERRAL
+You Won!,Verify your bank details immediately!,SPAM
+Exclusive Offer,Verify your bank details immediately!,SPAM
+Weekly Deals,Biggest Sale Ever! Up to 70% off.,PROMOTION
+New Referral,You have a new job referral for the Designer position.,REFERRAL
+Quick Chat?,Setting up a meeting for the Q3 results.,MEETING_REQUEST
+Verify Now!,Claim your free iPad now!,SPAM
+Availability,Let's sync up tomorrow.,MEETING_REQUEST
+Quick Chat?,Available for a quick call around noon?,MEETING_REQUEST
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+File Request,Can you send me the spreadsheet?,FILE_REQUEST
+Quick Chat?,Are you free to chat next Monday?,MEETING_REQUEST
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+Meeting Request,Let's sync up sometime this week.,MEETING_REQUEST
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+URGENT!,Make money fast online!,SPAM
+Application Update,Referral received from Frank.,REFERRAL
+Quick Chat?,How about we meet around noon?,MEETING_REQUEST
+Meeting Request,How about we meet next Monday?,MEETING_REQUEST
+Application Update,Good news! Ben referred you for the Marketing Lead role.,REFERRAL
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+Quick Chat?,How about we meet tomorrow?,MEETING_REQUEST
+Re: Update,"Got it, thanks!",ACKNOWLEDGEMENT
+You Won!,Make money fast online!,SPAM
+Special Offer!,Limited time offer: gadget now available.,PROMOTION
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Weekly Deals,Check out our new subscription lineup.,PROMOTION
+File Request,Reminder to send the report.,FILE_REQUEST
+Document Needed,Where can I find the latest slides?,FILE_REQUEST
+Meeting Request,How about we meet around noon?,MEETING_REQUEST
+Document Needed,"Following up on our chat, could you share the report?",FILE_REQUEST
+Document Needed,Requesting access to the presentation.,FILE_REQUEST
+New Referral,Update on your application: referred by Frank.,REFERRAL
+Regarding File,"Hi, is the spreadsheet ready?",FILE_REQUEST
+Meeting Request,Let's sync up tomorrow.,MEETING_REQUEST
+Weekly Deals,Biggest Sale Ever! Up to 30% off.,PROMOTION
+URGENT!,Make money fast online!,SPAM
+Meeting Request,Do you have time for a brief meeting?,MEETING_REQUEST
+New Referral,Update on your application: referred by Chloe.,REFERRAL
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+Special Offer!,Check out our new subscription lineup.,PROMOTION
+Special Offer!,Don't miss our Clearance deals!,PROMOTION
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Availability,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+Meeting Request,Can we schedule a call to discuss the Q3 results?,MEETING_REQUEST
+You Won!,Your inheritance is waiting claim now!,SPAM
+Referral Submission,Referral received from Alex.,REFERRAL
+Verify Now!,Verify your bank details immediately!,SPAM
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Application Update,Good news! Grace referred you for the Designer role.,REFERRAL
+File Request,"Hi, is the document ready?",FILE_REQUEST
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Exclusive Offer,Verify your bank details immediately!,SPAM
+Weekly Deals,Biggest Sale Ever! Up to 30% off.,PROMOTION
+Exclusive Offer,Verify your bank details immediately!,SPAM
+Special Offer!,Don't miss our Summer deals!,PROMOTION
+File Request,Reminder to send the slides.,FILE_REQUEST
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+Got it,"Perfect, thanks!",ACKNOWLEDGEMENT
+Special Offer!,Check out our new subscription lineup.,PROMOTION
+Meeting Request,Meeting request: next steps discussion.,MEETING_REQUEST
+Exclusive Offer,Your inheritance is waiting claim now!,SPAM
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Document Needed,Need the spreadsheet for the meeting.,FILE_REQUEST
+Application Update,Good news! Ben referred you for the Marketing Lead role.,REFERRAL
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+Weekly Deals,Weekly Digest: Top news and special offers.,PROMOTION
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Regarding File,Reminder to send the presentation.,FILE_REQUEST
+Application Update,Please review the attached referral profile.,REFERRAL
+Don't Miss Out!,Flash Sale! 50% off everything!,PROMOTION
+File Request,"Following up on our chat, could you share the spreadsheet?",FILE_REQUEST
+Quick Chat?,Meeting request: our strategy discussion.,MEETING_REQUEST
+Referral Submission,Referral received from Henry.,REFERRAL
+Weekly Deals,Biggest Sale Ever! Up to 70% off.,PROMOTION
+You Won!,Congratulations! You won a free iPhone!,SPAM
+Referral Submission,Good news! Frank referred you for the Data Analyst role.,REFERRAL
+URGENT!,Congratulations! You won £5000!,SPAM
+Regarding File,Can you send me the presentation?,FILE_REQUEST
+Referral Submission,ACTION REQUIRED: New referral submission.,REFERRAL
+Special Offer!,Exclusive 20% discount for you!,PROMOTION
+Special Offer!,Flash Sale! 30% off everything!,PROMOTION
+Quick Chat?,Setting up a meeting for the budget.,MEETING_REQUEST
+Application Update,Update on your application: referred by Grace.,REFERRAL
+Regarding File,"Following up on our chat, could you share the proposal?",FILE_REQUEST
+Meeting Request,Are you free to chat around noon?,MEETING_REQUEST
+File Request,"Following up on our chat, could you share the report?",FILE_REQUEST
+Verify Now!,Congratulations! You won £5000!,SPAM
+New Referral,Referral received from Alex.,REFERRAL
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+Regarding File,Requesting access to the document.,FILE_REQUEST
+Quick Chat?,How about we meet at 3 PM?,MEETING_REQUEST
+Availability,How about we meet next Monday?,MEETING_REQUEST
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Regarding File,Requesting access to the agenda.,FILE_REQUEST
+URGENT!,Claim your free iPad now!,SPAM
+Don't Miss Out!,Don't miss our Clearance deals!,PROMOTION
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+You Won!,Verify your bank details immediately!,SPAM
+Special Offer!,Flash Sale! 20% off everything!,PROMOTION
+Availability,Can we schedule a call to discuss the project?,MEETING_REQUEST
+Referral Submission,You have a new job referral for the Marketing Lead position.,REFERRAL
+Exclusive Offer,Make money fast online!,SPAM
+URGENT!,Make money fast online!,SPAM
+Meeting Request,Meeting request: the new design discussion.,MEETING_REQUEST
+Application Update,Please review the attached referral profile.,REFERRAL
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+Document Needed,Can you send me the proposal?,FILE_REQUEST
+Weekly Deals,Your weekly newsletter and promotions.,PROMOTION
+File Request,"Hi, is the minutes ready?",FILE_REQUEST
+Availability,Let's sync up sometime this week.,MEETING_REQUEST
+Weekly Deals,Don't miss our Clearance deals!,PROMOTION
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Exclusive Offer,Make money fast online!,SPAM
+File Request,Where can I find the latest minutes?,FILE_REQUEST
+Availability,Available for a quick call later today?,MEETING_REQUEST
+File Request,"Following up on our chat, could you share the proposal?",FILE_REQUEST
+Verify Now!,URGENT: Your account is locked! Click here!,SPAM
+Verify Now!,Your inheritance is waiting claim now!,SPAM
+Exclusive Offer,Verify your bank details immediately!,SPAM
+Referral Submission,Good news! Chloe referred you for the Data Analyst role.,REFERRAL
+Don't Miss Out!,Don't miss our Clearance deals!,PROMOTION
+Referral Submission,Good news! David referred you for the Designer role.,REFERRAL
+Meeting Request,Let's sync up next Monday.,MEETING_REQUEST
+Availability,How about we meet tomorrow?,MEETING_REQUEST
+Availability,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+New Referral,ACTION REQUIRED: New referral submission.,REFERRAL
+URGENT!,Verify your bank details immediately!,SPAM
+Exclusive Offer,URGENT: Your account is locked! Click here!,SPAM
+Quick Chat?,Do you have time for a brief meeting?,MEETING_REQUEST
+Document Needed,"Hi, is the slides ready?",FILE_REQUEST
+Meeting Request,Are you free to chat later today?,MEETING_REQUEST
+Document Needed,Where can I find the latest presentation?,FILE_REQUEST
+Special Offer!,Biggest Sale Ever! Up to 50% off.,PROMOTION
+Referral Submission,Referral received from Ben.,REFERRAL
+Special Offer!,Exclusive 30% discount for you!,PROMOTION
+Quick Chat?,Meeting request: our strategy discussion.,MEETING_REQUEST
+New Referral,Referral received from Frank.,REFERRAL
+Special Offer!,Limited time offer: gadget now available.,PROMOTION
+File Request,Need the slides for the meeting.,FILE_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Referral Submission,Please review the attached referral profile.,REFERRAL
+File Request,Need the minutes for the meeting.,FILE_REQUEST
+Quick Chat?,Are you free to chat around noon?,MEETING_REQUEST
+Referral Submission,Update on your application: referred by Alex.,REFERRAL
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+New Referral,Good news! Grace referred you for the Data Analyst role.,REFERRAL
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+Don't Miss Out!,Biggest Sale Ever! Up to 50% off.,PROMOTION
+Regarding File,Where can I find the latest document?,FILE_REQUEST
+Quick Chat?,Let's sync up at 3 PM.,MEETING_REQUEST
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+Quick Chat?,Let's sync up at 3 PM.,MEETING_REQUEST
+Referral Submission,Please review the attached referral profile.,REFERRAL
+Thanks,"Got it, thanks!",ACKNOWLEDGEMENT
+Weekly Deals,Your weekly newsletter and promotions.,PROMOTION
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+File Request,Reminder to send the proposal.,FILE_REQUEST
+Special Offer!,Biggest Sale Ever! Up to 50% off.,PROMOTION
+Don't Miss Out!,Flash Sale! 70% off everything!,PROMOTION
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+Document Needed,Where can I find the latest minutes?,FILE_REQUEST
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Document Needed,Requesting access to the minutes.,FILE_REQUEST
+Quick Chat?,Do you have time for a brief meeting?,MEETING_REQUEST
+Referral Submission,Good news! David referred you for the Data Analyst role.,REFERRAL
+Verify Now!,Congratulations! You won a free iPhone!,SPAM
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Quick Chat?,Meeting request: next steps discussion.,MEETING_REQUEST
+Document Needed,Reminder to send the proposal.,FILE_REQUEST
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+Special Offer!,Check out our new subscription lineup.,PROMOTION
+Availability,Can we schedule a call to discuss next steps?,MEETING_REQUEST
+Availability,Setting up a meeting for the budget.,MEETING_REQUEST
+Document Needed,Requesting access to the report.,FILE_REQUEST
+Document Needed,Where can I find the latest spreadsheet?,FILE_REQUEST
+Weekly Deals,Check out our new gadget lineup.,PROMOTION
+Referral Submission,Good news! Henry referred you for the Data Analyst role.,REFERRAL
+Got it,"Perfect, thanks!",ACKNOWLEDGEMENT
+Thanks,Acknowledged.,ACKNOWLEDGEMENT
+Referral Submission,Update on your application: referred by Alex.,REFERRAL
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Got it,Thanks for sending that over.,ACKNOWLEDGEMENT
+Availability,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+Quick Chat?,Let's sync up later today.,MEETING_REQUEST
+Regarding File,Requesting access to the proposal.,FILE_REQUEST
+Regarding File,Need the spreadsheet for the meeting.,FILE_REQUEST
+Exclusive Offer,Congratulations! You won £5000!,SPAM
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+Quick Chat?,Available for a quick call next Monday?,MEETING_REQUEST
+Regarding File,Please forward the slides when you get a chance.,FILE_REQUEST
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+Special Offer!,Flash Sale! 10% off everything!,PROMOTION
+Thanks,Thanks for sending that over.,ACKNOWLEDGEMENT
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Weekly Deals,Limited time offer: subscription now available.,PROMOTION
+Quick Chat?,Are you free to chat tomorrow?,MEETING_REQUEST
+Referral Submission,ACTION REQUIRED: New referral submission.,REFERRAL
+New Referral,Good news! Henry referred you for the Designer role.,REFERRAL
+File Request,Requesting access to the document.,FILE_REQUEST
+You Won!,"Congratulations! You won $1,000,000!",SPAM
+URGENT!,Viagra cheap online!,SPAM
+New Referral,Referral received from Alex.,REFERRAL
+Got it,"Got it, thanks!",ACKNOWLEDGEMENT
+Quick Chat?,Are you free to chat sometime this week?,MEETING_REQUEST
+Weekly Deals,Limited time offer: gadget now available.,PROMOTION
+URGENT!,Viagra cheap online!,SPAM
+Document Needed,Please forward the proposal when you get a chance.,FILE_REQUEST
+Weekly Deals,Check out our new subscription lineup.,PROMOTION
+Meeting Request,Meeting request: the project discussion.,MEETING_REQUEST
+File Request,Need the minutes for the meeting.,FILE_REQUEST
+File Request,"Hi, is the spreadsheet ready?",FILE_REQUEST
+File Request,Reminder to send the slides.,FILE_REQUEST
+URGENT!,Your inheritance is waiting claim now!,SPAM
+Weekly Deals,Check out our new service lineup.,PROMOTION
+Don't Miss Out!,Check out our new service lineup.,PROMOTION
+Weekly Deals,Don't miss our Holiday deals!,PROMOTION
+Special Offer!,Don't miss our Weekend deals!,PROMOTION
+Re: Update,Acknowledged.,ACKNOWLEDGEMENT
+Regarding File,Where can I find the latest document?,FILE_REQUEST
+Re: Update,Thanks for sending that over.,ACKNOWLEDGEMENT
+Got it,Acknowledged.,ACKNOWLEDGEMENT
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+Quick Chat?,Can we schedule a call to discuss the Q3 results?,MEETING_REQUEST
+Got it,Thanks for the update.,ACKNOWLEDGEMENT
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+Regarding File,Need the spreadsheet for the meeting.,FILE_REQUEST
+Meeting Request,Available for a quick call at 3 PM?,MEETING_REQUEST
+Don't Miss Out!,Check out our new subscription lineup.,PROMOTION
+Quick Chat?,Let's sync up later today.,MEETING_REQUEST
+Don't Miss Out!,Flash Sale! 30% off everything!,PROMOTION
+Weekly Deals,Weekly Digest: Top news and special offers.,PROMOTION
+Got it,"Perfect, thanks!",ACKNOWLEDGEMENT
+URGENT!,Verify your bank details immediately!,SPAM
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+File Request,Requesting access to the minutes.,FILE_REQUEST
+Document Needed,"Following up on our chat, could you share the agenda?",FILE_REQUEST
+Application Update,Good news! Frank referred you for the Marketing Lead role.,REFERRAL
+Don't Miss Out!,Check out our new widget lineup.,PROMOTION
+Thanks,Sounds good.,ACKNOWLEDGEMENT
+Document Needed,"Hi, is the presentation ready?",FILE_REQUEST
+You Won!,Claim your free gift card now!,SPAM
+Meeting Request,How about we meet next Monday?,MEETING_REQUEST
+Referral Submission,Update on your application: referred by Ben.,REFERRAL
+Quick Chat?,Meeting request: the Q3 results discussion.,MEETING_REQUEST
+New Referral,Good news! Alex referred you for the Marketing Lead role.,REFERRAL
+Weekly Deals,Check out our new gadget lineup.,PROMOTION
+Special Offer!,Biggest Sale Ever! Up to 70% off.,PROMOTION
+Special Offer!,Check out our new subscription lineup.,PROMOTION
+Quick Chat?,Let's sync up later today.,MEETING_REQUEST
+Exclusive Offer,Exclusive offer just for you - Limited spots!,SPAM
+Don't Miss Out!,Exclusive 50% discount for you!,PROMOTION
+Exclusive Offer,Viagra cheap online!,SPAM
+Application Update,Update on your application: referred by Emma.,REFERRAL
+Application Update,Good news! Grace referred you for the Data Analyst role.,REFERRAL
+Referral Submission,Good news! Grace referred you for the Designer role.,REFERRAL
+You Won!,Exclusive offer just for you - Limited spots!,SPAM
+Application Update,You have a new job referral for the Marketing Lead position.,REFERRAL
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Quick Chat?,Meeting request: our strategy discussion.,MEETING_REQUEST
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Special Offer!,Limited time offer: gadget now available.,PROMOTION
+File Request,Can you send me the document?,FILE_REQUEST
+File Request,Reminder to send the report.,FILE_REQUEST
+Special Offer!,Your weekly newsletter and promotions.,PROMOTION
+Application Update,Please review the attached referral profile.,REFERRAL
+Referral Submission,You have a new job referral for the Software Engineer position.,REFERRAL
+Weekly Deals,Don't miss our Holiday deals!,PROMOTION
+Regarding File,Can you send me the proposal?,FILE_REQUEST
+Regarding File,Where can I find the latest spreadsheet?,FILE_REQUEST
+Don't Miss Out!,Limited time offer: subscription now available.,PROMOTION
+You Won!,Make money fast online!,SPAM
+Document Needed,Need the proposal for the meeting.,FILE_REQUEST
+Re: Update,"Perfect, thanks!",ACKNOWLEDGEMENT
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+Weekly Deals,Biggest Sale Ever! Up to 30% off.,PROMOTION
+Verify Now!,Claim your free vacation now!,SPAM
+Application Update,Please review the attached referral profile.,REFERRAL
+You Won!,URGENT: Your account is locked! Click here!,SPAM
+You Won!,Claim your free gift card now!,SPAM
+File Request,Can you send me the report?,FILE_REQUEST
+New Referral,Referral received from Ben.,REFERRAL
+Referral Submission,Good news! Ben referred you for the Designer role.,REFERRAL
+URGENT!,Viagra cheap online!,SPAM
+Verify Now!,Make money fast online!,SPAM
+New Referral,Update on your application: referred by Chloe.,REFERRAL
+Re: Update,Sounds good.,ACKNOWLEDGEMENT
+You Won!,Make money fast online!,SPAM
+Referral Submission,Update on your application: referred by Henry.,REFERRAL
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+Got it,"Perfect, thanks!",ACKNOWLEDGEMENT
+Re: Update,"Perfect, thanks!",ACKNOWLEDGEMENT
+File Request,Need the document for the meeting.,FILE_REQUEST
+Document Needed,Please forward the document when you get a chance.,FILE_REQUEST
+Verify Now!,Viagra cheap online!,SPAM
+File Request,Please forward the presentation when you get a chance.,FILE_REQUEST
+Quick Chat?,How about we meet around noon?,MEETING_REQUEST
+Regarding File,Need the slides for the meeting.,FILE_REQUEST
+Got it,"Okay, will do.",ACKNOWLEDGEMENT
+Document Needed,"Hi, is the proposal ready?",FILE_REQUEST
+Verify Now!,URGENT: Your account is locked! Click here!,SPAM
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+URGENT!,Claim your free iPhone now!,SPAM
+New Referral,You have a new job referral for the Designer position.,REFERRAL
+Referral Submission,Please review the attached referral profile.,REFERRAL
+New Referral,Update on your application: referred by Grace.,REFERRAL
+URGENT!,Verify your bank details immediately!,SPAM
+Re: Update,"Okay, will do.",ACKNOWLEDGEMENT
+URGENT!,Congratulations! You won £5000!,SPAM
+New Referral,Referral received from Alex.,REFERRAL
+URGENT!,Make money fast online!,SPAM
+Don't Miss Out!,Exclusive 30% discount for you!,PROMOTION
+Verify Now!,Congratulations! You won £5000!,SPAM
+Verify Now!,Exclusive offer just for you - Limited spots!,SPAM
+New Referral,You have a new job referral for the Designer position.,REFERRAL
+File Request,Requesting access to the proposal.,FILE_REQUEST
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+File Request,Requesting access to the spreadsheet.,FILE_REQUEST
+Quick Chat?,How about we meet later today?,MEETING_REQUEST
+New Referral,Update on your application: referred by Henry.,REFERRAL
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Don't Miss Out!,Biggest Sale Ever! Up to 10% off.,PROMOTION
+Verify Now!,Your inheritance is waiting claim now!,SPAM
+Application Update,Please review the attached referral profile.,REFERRAL
+Quick Chat?,How about we meet later today?,MEETING_REQUEST
+Meeting Request,Available for a quick call at 3 PM?,MEETING_REQUEST
+File Request,Can you send me the proposal?,FILE_REQUEST
+Thanks,"Perfect, thanks!",ACKNOWLEDGEMENT
+Thanks,"Received, thank you.",ACKNOWLEDGEMENT
+Quick Chat?,Are you free to chat later today?,MEETING_REQUEST
+File Request,Where can I find the latest slides?,FILE_REQUEST
+Don't Miss Out!,Exclusive 50% discount for you!,PROMOTION
+Application Update,You have a new job referral for the Designer position.,REFERRAL
+URGENT!,Make money fast online!,SPAM
+Re: Update,Thanks for the update.,ACKNOWLEDGEMENT
+Meeting Request,Available for a quick call around noon?,MEETING_REQUEST
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Quick Chat?,Are you free to chat next Monday?,MEETING_REQUEST
+Regarding File,Need the document for the meeting.,FILE_REQUEST
+Availability,Meeting request: the project discussion.,MEETING_REQUEST
+Re: Update,"Received, thank you.",ACKNOWLEDGEMENT
+Don't Miss Out!,Your weekly newsletter and promotions.,PROMOTION
+Application Update,ACTION REQUIRED: New referral submission.,REFERRAL
+Verify Now!,Claim your free vacation now!,SPAM
+Thanks,"Okay, will do.",ACKNOWLEDGEMENT
+Got it,Sounds good.,ACKNOWLEDGEMENT
+Weekly Deals,Flash Sale! 50% off everything!,PROMOTION
+Quick Chat?,Can we schedule a call to discuss the new design?,MEETING_REQUEST
+Meeting Request,Setting up a meeting for the budget.,MEETING_REQUEST
+Verify Now!,Claim your free gift card now!,SPAM
+New Referral,Referral received from Emma.,REFERRAL
+Meeting Request,Available for a quick call sometime this week?,MEETING_REQUEST
+URGENT!,Verify your bank details immediately!,SPAM
+You Won!,Verify your bank details immediately!,SPAM
+Quick Chat?,How about we meet sometime this week?,MEETING_REQUEST
+URGENT!,Exclusive offer just for you - Limited spots!,SPAM
+File Request,Where can I find the latest agenda?,FILE_REQUEST
+Thanks,Thanks for the update.,ACKNOWLEDGEMENT
